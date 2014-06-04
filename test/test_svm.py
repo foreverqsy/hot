@@ -1,6 +1,6 @@
 #encoding=utf8
 import sys
-sys.path.append('/Users/acmer/Desktop/hot/hot/lib')
+sys.path.append('/Users/acmer/Desktop/hot/lib')
 import svmMLiA as svm
 import matplotlib
 import matplotlib.pyplot as plt
